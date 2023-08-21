@@ -1,0 +1,16 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  /* Apply LinkedIn color to buttons */
+button {
+  background-color: #0A66C2;
+  color: white;
+}
+
+/* Style secondary buttons */
+button.secondary {
+  background-color: #0177B5;
+}
+}
